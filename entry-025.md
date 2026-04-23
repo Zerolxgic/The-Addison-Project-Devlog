@@ -11,7 +11,7 @@ But sometimes those are the days that matter most.
 
 Today was one of those days for Addison.
 
-A big part of the work was governance work — not in the stiff or bureaucratic sense, but in the sense of finally separating categories that were too blurry before. Capability admission is not the same thing as mode activation. Mode activation is not the same thing as action authorization. Action authorization is not the same thing as canonical truth admission. Historical preservation is not the same thing as current governing posture.
+A big part of the work was governance work not in the stiff or bureaucratic sense, but in the sense of finally separating categories that were too blurry before. Capability admission is not the same thing as mode activation. Mode activation is not the same thing as action authorization. Action authorization is not the same thing as canonical truth admission. Historical preservation is not the same thing as current governing posture.
 
 That may sound abstract, but it matters a lot.
 
