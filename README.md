@@ -2,7 +2,7 @@
 
 This repository is a personal development log for my work on **Addison** and the workflow around it, **WBTSR**.
 
-It is not a technical handoff, a polished product page, or the canonical source of truth for the project. This repo is where I write through the process more personally — the thinking, the direction changes, the lessons, and the reality of building something over time.
+It is not a technical handoff, a polished product page, or the canonical source of truth for the project. This repo is where I write through the process more personally the thinking, the direction changes, the lessons, and the reality of building something over time.
 
 The goal here is to document the work in a more human way.
 
